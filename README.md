@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![](https://img.shields.io/badge/-gmail-%23ff5252?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjgheytasi@gmail.com)
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojtaba-gheytasi)
 [![](https://img.shields.io/badge/-hacker%20rank-%232c3e50?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/mjgheytasi)
