@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**mojtaba-gheytasi/mojtaba-gheytasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-gmail-%23ff5252?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjgheytasi@gmail.com)
+[![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojtaba-gheytasi)
+[![](https://img.shields.io/badge/-hacker%20rank-%232c3e50?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/mjgheytasi)
+[![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@mjgheytasi)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### WHAT I KNOW
+
+![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
+![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg)
+![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
+![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
