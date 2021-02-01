@@ -8,9 +8,9 @@
 ### WHAT I KNOW
 
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
+![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
 ![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
-![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 ![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
