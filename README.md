@@ -15,6 +15,7 @@
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 <br>
