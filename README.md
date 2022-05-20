@@ -19,5 +19,3 @@
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 <br>
-
-Under construction ...
