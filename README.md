@@ -6,8 +6,8 @@
 
 ### WHAT I KNOW
 
-![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
+![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)
+![Go](https://www.vectorlogo.zone/logos/golang/golang-ar21.svg)
 ![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
