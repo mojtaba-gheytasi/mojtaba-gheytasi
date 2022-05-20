@@ -8,10 +8,7 @@
 
 ![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)
 ![Go](https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg)
-![Go](https://www.vectorlogo.zone/logos/golang/golang-vertical.svg)
-![Go](https://www.vectorlogo.zone/logos/golang/golang-ar21.svg)
-![Go](https://www.vectorlogo.zone/logos/golang/golang-official.svg)
-![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg)
+![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 ![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
