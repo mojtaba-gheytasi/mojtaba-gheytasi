@@ -17,6 +17,7 @@
 ![RabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
 ![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
